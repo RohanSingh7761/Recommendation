@@ -1,6 +1,6 @@
-# Recommendation System Exploration
+# Recommendation System
 
-This folder contains Jupyter Notebook files exploring various aspects of a recommendation system. There is no frontend in the project due to time constraints.
+This folder contains Jupyter Notebook files of a recommendation system. There is no frontend in the project due to time constraints. Entering userID and videoID needs to be done manually.
 
 ## Datasets
 
