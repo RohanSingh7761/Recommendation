@@ -4,7 +4,7 @@ This folder contains Jupyter Notebook files exploring various aspects of a recom
 
 ## Datasets
 
-5 datasets are used in this project, given below with the column names in each file. 
+5 datasets are used in this project. 
 
 1. interactions_100k_with_relationships.csv
     * Interaction ID, User ID, PostID, Interaction Type, Interaction Timestamp, Watch Duration
